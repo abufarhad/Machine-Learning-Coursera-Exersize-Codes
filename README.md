@@ -1,3 +1,15 @@
-# These are The Excersises Code Solution of Coursera Machine Learning Course .
-You Can find the course Bellow this Link : https://www.coursera.org/learn/machine-learning
+# D2D - Door 2 Door CRM 
+
+## Local
+```terminal
+go mod vendor
+
+go run main.go serve
+```
+
+## Docker
+```terminal
+make development
+```
+
 
